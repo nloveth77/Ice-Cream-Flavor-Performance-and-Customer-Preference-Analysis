@@ -17,6 +17,16 @@ Monitor daily trend changes in ratings from 1/1/2022 to 1/7/2022 to detect stabi
 
 
 
+
+
+
+<img width="1815" height="867" alt="ChatGPT Image Sep 29, 2026, 03_20_08 AM" src="https://github.com/user-attachments/assets/43a83c4e-f608-4899-b720-3e5088f30d33" />
+
+
+
+
+
+
 Data Structure
 
 The notebook processes two primary datasets:
